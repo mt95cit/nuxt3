@@ -11,6 +11,8 @@
 - [Yarn](https://www.npmjs.com/package/yarn)
 - [Git](https://git-scm.com/downloads)
 - Add setting visual code:
+
+  
    {
    "eslint.alwaysShowStatus": true,
    "eslint.format.enable": true,

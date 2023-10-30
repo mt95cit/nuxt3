@@ -11,8 +11,7 @@
 - [Yarn](https://www.npmjs.com/package/yarn)
 - [Git](https://git-scm.com/downloads)
 - Add setting visual code:
-
-  
+```bash
    {
    "eslint.alwaysShowStatus": true,
    "eslint.format.enable": true,
@@ -24,7 +23,7 @@
    "editor.defaultFormatter": "esbenp.prettier-vscode",
    "terminal.integrated.defaultProfile.windows": "Command Prompt",
    }
-
+```
 
 # Run Local
 

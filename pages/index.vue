@@ -29,7 +29,7 @@
       title="Edit item"
       size="small"
       v-on:ok="editItem"
-      v-on:cancel="resetEditedItem"
+      v-on:cancel="resetEditedItem
     >
       <va-input
         v-for="key in Object.keys(editedItem)"
